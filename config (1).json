@@ -1,0 +1,16 @@
+{
+  "prefix": "+",
+  "devs": [ "1146503735560896656"
+  ],
+  "autoReply": {
+  },
+  "mentionReply": false,
+  "voiceChannel": "",
+  "autoReaction": {
+    "messagesBefore": 10,
+    "logChannel": "",
+    "reactionTimeout": "5",
+    "giveawayBots": [
+    ]
+  }
+}
